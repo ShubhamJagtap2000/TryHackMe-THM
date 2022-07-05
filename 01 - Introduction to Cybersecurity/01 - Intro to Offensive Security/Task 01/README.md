@@ -47,15 +47,15 @@ Transfer $2000 from the bank account 2276, to your account (account number 8881)
 
 # Answer the questions below
 
- When you've transferred money to your account, go back to your bank account page. What is the answer shown on your bank balance page? 
+1. When you've transferred money to your account, go back to your bank account page. What is the answer shown on your bank balance page? 
  ```
  BANK-HACKED
  ```
-If you were a penetration tester or security consultant, this is an exercise you’d perform for companies to test for vulnerabilities in their web applications; find hidden pages to investigate for vulnerabilities.
+2. If you were a penetration tester or security consultant, this is an exercise you’d perform for companies to test for vulnerabilities in their web applications; find hidden pages to investigate for vulnerabilities.
 ```
 No answer needed
 ```
-Terminate the machine by clicking the red "Terminate" button at the top of the page.
+3. Terminate the machine by clicking the red "Terminate" button at the top of the page.
 ```
 No answer needed
 ```
