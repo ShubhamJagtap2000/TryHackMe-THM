@@ -3,6 +3,24 @@
 ### **`TryHackMe`** is a free online platform for learning cybersecurity, using hands-on exercises and labs on the browser!
  
 
+## Pre Security
+
+- This learning path will teach you the pre-requisite technical knowledge to get started in cyber security. To attack or defend any technology, you have to first learn how this technology works.
+
+- The Pre-Security learning path is a beginner friendly and fun way to learn the basics. Your cyber security learning journey starts here!
+
+### 1. Introduction to Cybersecurity
+
+- Intro to Offensive Security
+- Intro to Defensive Security
+- Careers in Cyber
+      
+### 2. Network Fundamentals
+### 3. How the Web Works?
+### 4. Linux Fundamentals
+### 5. Windows Fundamentals
+
+
 
 
 ## Penetration Tester
