@@ -11,7 +11,7 @@
 
 ### 1. Introduction to Cybersecurity
 
-- Intro to Offensive Security
+- [Intro to Offensive Security](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/01%20-%20Introduction%20to%20Cybersecurity/01%20-%20Intro%20to%20Offensive%20Security)
 - Intro to Defensive Security
 - Careers in Cyber
       
