@@ -1,5 +1,8 @@
 # Try-Hack-Me
 
+ **`TryHackMe`** is a free online platform for learning cybersecurity, using hands-on exercises and labs on the browser!
+
+
 ## Penetration Tester
 
 - Responsible for testing technology products for security loopholes.
