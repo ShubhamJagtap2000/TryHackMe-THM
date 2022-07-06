@@ -18,6 +18,7 @@
 ### 2. Network Fundamentals
 
 - [What is Networking?](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/01%20-%20What%20is%20Networking)
+- [Intro to LAN](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/02%20-%20Intro%20to%20LAN)
 ### 3. How the Web Works?
 ### 4. Linux Fundamentals
 ### 5. Windows Fundamentals
