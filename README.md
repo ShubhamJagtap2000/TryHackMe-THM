@@ -16,6 +16,8 @@
 - Careers in Cyber
       
 ### 2. Network Fundamentals
+
+- [What is Networking?](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/01%20-%20What%20is%20Networking)
 ### 3. How the Web Works?
 ### 4. Linux Fundamentals
 ### 5. Windows Fundamentals
