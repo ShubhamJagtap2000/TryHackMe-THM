@@ -19,6 +19,7 @@
 
 - [What is Networking?](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/01%20-%20What%20is%20Networking)
 - [Intro to LAN](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/02%20-%20Intro%20to%20LAN)
+- [The OSI Model](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/03%20-%20The%20OSI%20Model)
 ### 3. How the Web Works?
 ### 4. Linux Fundamentals
 ### 5. Windows Fundamentals
