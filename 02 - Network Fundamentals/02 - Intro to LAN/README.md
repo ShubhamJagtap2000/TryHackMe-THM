@@ -4,7 +4,7 @@ URL: https://tryhackme.com/room/introtolan
 
 # Table of content
 
-- [Task 1 - LAN Topologies]()
+- [Task 1 - LAN Topologies](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/02%20-%20Intro%20to%20LAN/Task%20%2001)
 - [Task 2 - A Primer on Subnetting]()
 - [Task 3 - The ARP Protocol]()
 - [Task 4 - The DHCP Protocol]()
