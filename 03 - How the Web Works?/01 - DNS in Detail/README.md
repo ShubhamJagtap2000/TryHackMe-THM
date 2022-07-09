@@ -1,4 +1,4 @@
-# How the Web Works?
+# DNS in Detail
 
 URL: https://tryhackme.com/room/dnsindetail
 
