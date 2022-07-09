@@ -13,14 +13,18 @@
 
 - [Intro to Offensive Security](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/01%20-%20Introduction%20to%20Cybersecurity/01%20-%20Intro%20to%20Offensive%20Security)
 - [Intro to Defensive Security](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/01%20-%20Introduction%20to%20Cybersecurity/02%20-%20Intro%20to%20Defensive%20Security)
-- Careers in Cyber
       
 ### 2. Network Fundamentals
 
 - [What is Networking?](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/01%20-%20What%20is%20Networking)
 - [Intro to LAN](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/02%20-%20Intro%20to%20LAN)
 - [The OSI Model](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/02%20-%20Network%20Fundamentals/03%20-%20The%20OSI%20Model)
+
 ### 3. How the Web Works?
+
+- [DNS in Detail](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/03%20-%20How%20the%20Web%20Works%3F/01%20-%20DNS%20in%20Detail)
+- [HTTP in Detail](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/03%20-%20How%20the%20Web%20Works%3F/02%20-%20HTTP%20in%20Detail)
+
 ### 4. Linux Fundamentals
 ### 5. Windows Fundamentals
 
