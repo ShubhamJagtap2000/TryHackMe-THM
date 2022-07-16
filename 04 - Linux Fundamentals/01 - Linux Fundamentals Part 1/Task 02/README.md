@@ -24,3 +24,9 @@
 - `Ubuntu` Server can run on systems with only `512MB` of RAM
 
 
+# Answer the question below
+
+1.  Research: What year was the first release of a Linux operating system? 
+```
+1991
+```
