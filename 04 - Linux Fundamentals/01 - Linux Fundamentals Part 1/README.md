@@ -2,7 +2,7 @@
 
 URL: https://tryhackme.com/room/linuxfundamentalspart1
 
-# table of content
+# Table of content
 
 - [Task 1 - Introduction](https://tryhackme.com/room/linuxfundamentalspart1)
 - [Task 2 - Background]()
