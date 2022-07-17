@@ -28,7 +28,7 @@
 ### 4. Linux Fundamentals
 
 - [Linux Fundamentals Part 1](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/04%20-%20Linux%20Fundamentals/01%20-%20Linux%20Fundamentals%20Part%201)
-- [Linux Fundamentals Part 2](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/04%20-%20Linux%20Fundamentals/01%20-%20Linux%20Fundamentals%20Part%202)
+- [Linux Fundamentals Part 2](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/04%20-%20Linux%20Fundamentals/02%20-%20Linux%20Fundamentals%20Part%202)
 - [Linux Fundamentals Part 3](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/04%20-%20Linux%20Fundamentals/01%20-%20Linux%20Fundamentals%20Part%203)
 
 ### 5. Windows Fundamentals
