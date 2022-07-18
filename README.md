@@ -33,6 +33,9 @@
 
 ### 5. Windows Fundamentals
 
+- [Windows Fundamentals Part 1](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/05%20-%20Windows%20Fundamentals/01%20-%20Windows%20Fundamentals%20Part%201)
+- [Windows Fundamentals Part 2](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/05%20-%20Windows%20Fundamentals/01%20-%20Windows%20Fundamentals%20Part%202)
+- [Windows Fundamentals Part 3](https://github.com/ShubhamJagtap2000/TryHackMe-THM/tree/main/05%20-%20Windows%20Fundamentals/01%20-%20Windows%20Fundamentals%20Part%203)
 
 
 
